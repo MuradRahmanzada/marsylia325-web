@@ -1,0 +1,401 @@
+{
+  "navbar": {
+    "home": "strona główna",
+    "about-us": "o nas",
+    "services": "usługi",
+    "contact": "kontakt"
+  },
+  "banner": {
+    "title": "serwis samochodowy pod",
+    "city": "Warszawą",
+    "description": "Oferujemy kompleksową naprawę samochodów. Warsztat zajmuje się różnymi aspektami pojazdu – od mechanicznych i elektrycznych komponentów po elementy nadwozia i wnętrza.",
+    "cta": "NASZE USŁUGI"
+  },
+  "services": {
+    "title": "Nasze Usługi",
+    "Diagnostics": {
+      "name": "Diagnostyka",
+      "desc": "Wykorzystujemy najnowsze technologie i sprzęt diagnostyczny, aby dokładnie zidentyfikować wszelkie problemy związane z elektroniką, silnikiem, układem hamulcowym i innymi podzespołami Twojego samochodu.",
+      "img": "/assets/diagnostic.png"
+    },
+    "Automotive": {
+      "name": "Motoryzacja",
+      "desc": "Przeciwieństwie do standardów supermarketowych, preferujemy rozwiązania trwałe i bezawaryjne. Dlatego warto nam zaufać. Preferujemy producentów znanych z dobrej jakości i posiadających nienaganną opinię.",
+      "img": "/assets/motoryzacja.png"
+    },
+    "Suspension": {
+      "name": "Zawieszenie",
+      "desc": "Nasze usługi w zakresie zawieszenia samochodu obejmują diagnostykę, naprawy, wymianę elementów zawieszenia oraz regulacje geometrii kół. Zapewniamy fachową obsługę i stosujemy wysokiej jakości części zamienne.",
+      "img": "/assets/car-engine.png"
+    },
+    "Electrical": {
+      "name": "Elektryka",
+      "desc": "Nasze usługi w zakresie elektryki samochodowej obejmują diagnozę i naprawę układów elektrycznych, montaż dodatkowego oświetlenia, instalację systemów multimedialnych, oraz wiele innych. Działamy sprawnie i solidnie.",
+      "img": "/assets/electric.png"
+    },
+    "Tire Service": {
+      "name": "Wulkanizacja",
+      "desc": "Nasza wulkanizacja oferuje szeroki zakres usług, w tym wymianę opon, naprawy opon, oraz wyważanie kół. Posiadamy nowoczesny sprzęt i doświadczony personel, który zapewnia wysoką jakość usług.",
+      "img": "/assets/diagnostic.png"
+    },
+    "Oil Service": {
+      "name": "Serwis Olejowy",
+      "desc": "Oferujemy również możliwość serwisu eksploatacyjnego, tj. wymiany płynów i olei, aby Państwa auto służyło niezawodnie i bezpiecznie przez wiele lat.",
+      "img": "/assets/oil-change.png"
+    }
+  },
+  "brands": {
+    "text": "Nasza firma obsługuje szeroką gamę marek samochodów, oferując specjalistyczne usługi konserwacji i naprawy pojazdów. Podchodzimy do naszych usług z zaangażowaniem w jakość i niezawodność, zapewniając, że Twój samochód osiąga maksymalną wydajność i trwałość."
+  },
+  "FAQ": {
+    "title1": "Najczęściej zadawane pytania",
+    "title2": "Pytania o serwisowanie i naprawy auta",
+    "q1": {
+      "q": "Co wymieniać w samochodzie okresowo?",
+      "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos aspernatur cupiditate, ipsum odio libero quaerat eum vel id quos est."
+    },
+    "q2": {
+      "q": "Jaki olej do silnika w moim samochodzie?",
+      "answer": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos aspernatur cupiditate, ipsum odio libero quaerat eum vel id quos est."
+    },
+    "q3": {
+      "q": "Naprawa samochodu z OC – jak przeprowadzić?",
+      "answer": "W przypadku kolizji, w której winę ponosi drugi kierowca, auto może zostać naprawione z polisy ubezpieczeniowej sprawcy. Jednak kierowca, którego samochód został uszkodzony ma możliwość wyboru pomiędzy dwiema formami rozliczenia – gotówkową (zwaną także kosztorysową) oraz bezgotówkową. W przypadku tej pierwszej, kierowcy zostanie wypłacona suma na pokrycie szkody, której wartość ocenia rzeczoznawca. Przy rozliczeniu bezgotówkowym, kierowca oddaje swoje auto do warsztatu samochodowego, a warsztat po wykonaniu usługi rozlicza się z towarzystwem ubezpieczeniowym, w którym sprawca posiada wykupioną polisę."
+    }
+  },
+  "Form": {
+    "text": "Twój dobry mechanik samochodowy - to my!",
+    "title1": "Umów wizytę",
+    "title2": "Oddaj swój samochód do zaufanego mechanika!",
+    "inputLabels": {
+      "name": "Twoje imię",
+      "phone": "Twój numer telefonu",
+      "carBrand": "Marka samochodu"
+    },
+    "buttonText": "Zapisz się",
+    "consentText": "Podając swoje dane wyrażasz zgodę na kontakt."
+  },
+  "Footer": {
+    "copyrightText": "© 2023 Serwis Samochodowy. Wszelkie prawa zastrzeżone.",
+    "socialMedia": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter"
+    },
+    "phoneNumber": "+48 780 780 325",
+    "gmail": "325marsylia@gmail.com",
+    "address": "Al.Jerozolimskie 325, 05-816 Reguły",
+    "contact": "Kontakt",
+    "contactText": "Potrzebujesz pomocy lub masz pytania? Skontaktuj się z nami",
+    "text1": "Twój samochód wymaga naprawy? Pomożemy Ci jak najszybciej wrócić na trasę!",
+    "text2": "Gwarantujemy, że nasza zaangażowana ekipa mechaników podejmie się każdego zadania. Zapraszamy do naszego warsztatu samochodowego."
+  },
+  "About-us": {
+    "pageName": "O NAS",
+    "Why Marsylia": "Czemu Marsylia",
+    "aboutMarsylia": "Witajcie! Marsylia325, swoją nazwę zaczerpnęła od kultowego filmu TAXI (1998) 🎬 i to nie tylko zwykły warsztat samochodowy, ale także prawdziwa przygoda. Nasza nazwa ma na celu przypomnienie o szybkim, szalonym i ekscytującym klimacie.*Związki z Filmem:* Film TAXI słynie z pasji do prędkości, szalonych scen z samochodami i ekscytujących pościgów. Marsylia325, jako warsztat samochodowy, oferuje tę samą energię i emocje podczas opieki nad Twoim pojazdem. Nasza nazwa to nie tylko usługa, ale także zaproszenie do unikalnego doświadczenia.*Ślady Marsylii:* Niezapomniany film TAXI był kręcony głównie w pięknym mieście Marsylia we Francji 🇫🇷. Wybierając naszą nazwę, chcemy przekazać nie tylko usługę, ale także ciepło, energię i pasję, które łączą się z tym uroczym miejscem.*Ekspertyza i Zaufanie:* Podobnie jak w filmie, zespół Marsylia325 jest znany z ekspertyzy i godności. Możesz śmiało powierzyć nam swoje auto, pozostawiając wszelkie potrzebne naprawy i konserwacje w ręce naszego doświadczonego zespołu.Z Marsylia325 naprawa Twojego samochodu to nie tylko rutynowe zadanie, ale prawdziwa przygoda. Dziękujemy za wybór naszych usług - szybkich, wiarygodnych i zgodnych z duchem filmu TAXI! 🚀🔧",
+    "text2": "Dla nas pielęgnacja samochodu to nie tylko obowiązek, to nasza pasja. Naszym celem w Marsylia325 jest nie tylko zapewnienie naszym klientom wysokiej jakości obsługi pojazdów, ale także podnoszenie standardów w branży, dodając wartość do życia właścicieli pojazdów. Jesteśmy tutaj, abyście mogli bezpiecznie podróżować i używać swoich pojazdów z pasją. Z Marsylia325 każda podróż staje się niezapomnianym przeżyciem! 🚗✨"
+  },
+  "Contact": {
+    "pageName": "Kontakt",
+    "address": {
+      "title": "Adres Serwisu",
+      "line1": "ul. Al.Jerozolimskie 325 05-816 Reguły"
+    },
+    "openingHours": {
+      "title": "Godziny otwarcia",
+      "hours": "Pon & Pio - 09:00 - 18:00 Sob - 10:00 - 15:00 Niedziela -Zamknięte"
+    },
+    "phoneNumber": {
+      "title": "Numer telefonu",
+      "number": "(+48) 780 780 325"
+    },
+    "email": {
+      "title": "Adres e-mail",
+      "address": "325marsylia@gmail.com"
+    }
+  },
+  "priceList": {
+    "category1": [
+      {
+        "id": 1,
+        "service": "Wymiana filtra paliwa",
+        "price": "od 50 Zł"
+      },
+      {
+        "id": 2,
+        "service": "Wymiana filtra powietrza",
+        "price": "10-30 Zł"
+      },
+      {
+        "id": 3,
+        "service": "Wymiana filtra kabinowego",
+        "price": "10-30 Zł"
+      },
+      { 
+        "id": 4,
+        "service": "Wymiana oleju",
+        "price": "Od 70 Zł"
+      },
+      {
+        "id": 5,
+        "service": "Wymiana oleju w skrzyni manualnej",
+        "price": "od 70 Zł"
+      },
+      {
+        "id": 6,
+        "service": "Wymiana oleju w skrzyni automatycznej",
+        "price": "od 80 Zł"
+      },
+      {
+        "id": 7,
+        "service": "Wymiana sprzęgła",
+        "price": "od 450 Zł"
+      },
+      {
+        "id": 8,
+        "service": "Wymiana skrzyni",
+        "price": "od 550 Zł"
+      },
+      {
+        "id": 9,
+        "service": "Wymiana amortyzatora",
+        "price": "od 140 Zł"
+      },
+      {
+        "id": 10,
+        "service": "Wymiana wahacza",
+        "price": "od 100 Zł"
+      },
+      {
+        "id": 11,
+        "service": "Wymiana tulei wahacza",
+        "price": "od 120 Zł"
+      },
+      {
+        "id": 12,
+        "service": "Wymiana łącznika stabilizatora",
+        "price": "od 70 Zł"
+      },
+      {
+        "id": 13,
+        "service": "Wymiana gumy stabilizatora przód,tył",
+        "price": "od 50 Zł"
+      },
+      {
+        "id": 14,
+        "service": "Wymiana gum belki tył",
+        "price": "od 300 Zł"
+      },
+      {
+        "id": 15,
+        "service": "Wymiana piasty koła",
+        "price": "od 120 Zł"
+      },
+      {
+        "id": 16,
+        "service": "Wymiana osłony przegubu wewnątrz/zewnątrz",
+        "price": "od 120 Zł"
+      },
+      {
+        "id": 17,
+        "service": "Diagnostyka zawieszenia",
+        "price": "od 30 Zł"
+      },
+      {
+        "id": 18,
+        "service": "Wymiana płynu układu wspomagania",
+        "price": "od 80 Zł"
+      },
+      {
+        "id": 19,
+        "service": "Wymiana końcówki drążka kierowniczego",
+        "price": "od 60 Zł"
+      },
+      {
+        "id": 20,
+        "service": "Wymiana drążka",
+        "price": "od 80 Zł"
+      },
+      {
+        "id": 21,
+        "service": "Wymiana płynu chłodniczego",
+        "price": "od 80 Zł"
+      },
+      {
+        "id": 22,
+        "service": "Wymiana chłodnicy(mycie)",
+        "price": "od 120 Zł"
+      },
+      {
+        "id": 23,
+        "service": "Wymiana nagrzewnicy",
+        "price": "od 180 Zł"
+      },
+      {
+        "id": 24,
+        "service": "Wymiana rozrządu (pasek)",
+        "price": "od 450 Zł"
+      },
+      {
+        "id": 25,
+        "service": "Wymiana rozrządu łańcuch",
+        "price": "od 700 Zł"
+      },
+      {
+        "id": 26,
+        "service": "Wymiana silnika",
+        "price": "od 1100 Zł"
+      },
+      {
+        "id": 27,
+        "service": "Wymiana uszczelki pokrywy zaworów",
+        "price": "od 160 Zł"
+      },
+      {
+        "id": 28,
+        "service": "Wymiana uszczelki kolektora",
+        "price": "od 180 Zł"
+      },
+      {
+        "id": 29,
+        "service": "Wymiana uszczelki pod głowicą",
+        "price": "od 950 Zł"
+      },
+      {
+        "id": 30,
+        "service": "Wymiana paska wielorowkowego",
+        "price": "od 90 Zł"
+      },
+      {
+        "id": 31,
+        "service": "Wymiana paska z rolkami",
+        "price": "od 150 Zł"
+      },
+      {
+        "id": 32,
+        "service": "Wymiana czujnika wałka rozrządu",
+        "price": "od 60 Zł"
+      },
+      {
+        "id": 33,
+        "service": "Wymiana czujnika wału przód",
+        "price": "od 80 Zł"
+      },
+      {
+        "id": 34,
+        "service": "Wymiana płynu hamulcowego",
+        "price": "od 180 Zł"
+      },
+      {
+        "id": 35,
+        "service": "Wymiana klocków",
+        "price": "od 70 Zł"
+      },
+      {
+        "id": 36,
+        "service": "Wymiana tarcz z klockami przód/tył",
+        "price": "od 130 Zł"
+      },
+      {
+        "id": 37,
+        "service": "Wymiana przewodu hamulcowego",
+        "price": "od 50 Zł"
+      },
+      {
+        "id": 38,
+        "service": "Wymiana zacisku hamulcowego",
+        "price": "od 90 Zł"
+      }
+    ],
+    "electricalRepair": [
+      {
+        "id": 39,
+        "service": "Diagnostyka komputerowa",
+        "price": "od 50 zł ZŁ"
+      },
+      {
+        "id": 40,
+        "service": "Wymiana akumulatora",
+        "price": "od 40 zł ZŁ"
+      },
+      {
+        "id": 41,
+        "service": "Wymiana żarówki",
+        "price": "od 20 zł ZŁ"
+      },
+      {
+        "id": 42,
+        "service": "Wymiana / regeneracja rozrusznika",
+        "price": "od 70 zł ZŁ"
+      },
+      {
+        "id": 43,
+        "service": "Wymiana / regeneracja alternatora",
+        "price": "od 110 zł ZŁ"
+      },
+      {
+        "id": 44,
+        "service": "Wymiana bezpiecznika",
+        "price": "od 20 zł ZŁ"
+      },
+      {
+        "id": 45,
+        "service": "Naprawa przełącznika kierunkowskazów i wycieraczek",
+        "price": "od 80 zł ZŁ"
+      },
+      {
+        "id": 46,
+        "service": "Demontaż/montaż deski rozdzielczej",
+        "price": "od 400 zł ZŁ"
+      },
+      {
+        "id": 47,
+        "service": "Wymiana przewodów zapłonowych",
+        "price": "od 80 zł ZŁ"
+      },
+      {
+        "id": 48,
+        "service": "Naprawa ABS / ESP",
+        "price": "od 80 zł ZŁ"
+      },
+      {
+        "id": 49,
+        "service": "Wymiana świec zapłonowych za sztukę",
+        "price": "od 20 zł ZŁ"
+      },
+      {
+        "id": 50,
+        "service": "Wymiana świec żarowych za sztukę",
+        "price": "od 35 zł ZŁ"
+      },
+      {
+        "id": 51,
+        "service": "Naprawa zamka",
+        "price": "od 100 zł ZŁ"
+      },
+      {
+        "id": 52,
+        "service": "Wymiana szyby bocznej",
+        "price": "od 100 zł ZŁ"
+      }
+    ],
+    "tireService": [
+      {
+        "id": 53,
+        "service": "Wymiana kół",
+        "price": "od 60 zł ZŁ"
+      },
+      {
+        "id": 54,
+        "service": "Wymiana opon z wyważeniem",
+        "price": "od 130 zł ZŁ"
+      },
+      {
+        "id": 55,
+        "service": "Wyważanie kół",
+        "price": "od 20 zł ZŁ"
+      }
+    ]
+  }
+}

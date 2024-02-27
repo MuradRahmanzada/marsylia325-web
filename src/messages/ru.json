@@ -116,286 +116,286 @@
     }
   },
   "priceList": {
-    "category1": [
-      {
+    "category1": {
+      "fuelFilterReplacement": {
         "id": 1,
         "service": "Замена топливного фильтра",
         "price": "от 50 злотых"
       },
-      {
+      "airFilterReplacement": {
         "id": 2,
         "service": "Замена воздушного фильтра",
         "price": "10-30 злотых"
       },
-      {
+      "cabinFilterReplacement": {
         "id": 3,
         "service": "Замена салонного фильтра",
         "price": "10-30 злотых"
       },
-      {
+      "oilChange": {
         "id": 4,
         "service": "Замена масла",
         "price": "от 70 злотых"
       },
-      {
+      "manualTransmissionOilChange": {
         "id": 5,
         "service": "Замена масла в механической коробке передач",
         "price": "от 70 злотых"
       },
-      {
+      "automaticTransmissionOilChange": {
         "id": 6,
         "service": "Замена масла в автоматической коробке передач",
         "price": "от 80 злотых"
       },
-      {
+      "clutchReplacement": {
         "id": 7,
         "service": "Замена сцепления",
         "price": "от 450 злотых"
       },
-      {
+      "gearboxReplacement": {
         "id": 8,
         "service": "Замена коробки передач",
         "price": "от 550 злотых"
       },
-      {
+      "shockAbsorberReplacement": {
         "id": 9,
         "service": "Замена амортизатора",
         "price": "от 140 злотых"
       },
-      {
+      "wishboneReplacement": {
         "id": 10,
         "service": "Замена рычага подвески",
         "price": "от 100 злотых"
       },
-      {
+      "wishboneBushingReplacement": {
         "id": 11,
         "service": "Замена втулки рычага подвески",
         "price": "от 120 злотых"
       },
-      {
+      "stabilizerLinkReplacement": {
         "id": 12,
         "service": "Замена стабилизаторной связки",
         "price": "от 70 злотых"
       },
-      {
+      "frontAndRearStabilizerRubberReplacement": {
         "id": 13,
         "service": "Замена резиновой стабилизаторной втулки передняя/задняя",
         "price": "от 50 злотых"
       },
-      {
+      "rearBeamRubberReplacement": {
         "id": 14,
         "service": "Замена резиновых подушек задней балки",
         "price": "от 300 злотых"
       },
-      {
+      "wheelHubReplacement": {
         "id": 15,
         "service": "Замена ступицы колеса",
         "price": "от 120 злотых"
       },
-      {
+      "inner/outerCVJointBootReplacement": {
         "id": 16,
         "service": "Замена внутреннего/внешнего грязезащитного чехла шарнира",
         "price": "от 120 злотых"
       },
-      {
+      "suspensionDiagnostics": {
         "id": 17,
         "service": "Диагностика подвески",
         "price": "от 30 злотых"
       },
-      {
+      "powerSteeringFluidReplacement": {
         "id": 18,
         "service": "Замена жидкости в гидроусилителе",
         "price": "от 80 злотых"
       },
-      {
+      "steeringTieRodEndReplacement": {
         "id": 19,
         "service": "Замена наконечника рулевой тяги",
         "price": "от 60 злотых"
       },
-      {
+      "steeringRodReplacement": {
         "id": 20,
         "service": "Замена рулевой тяги",
         "price": "от 80 злотых"
       },
-      {
+      "coolantReplacement": {
         "id": 21,
         "service": "Замена охлаждающей жидкости",
         "price": "от 80 злотых"
       },
-      {
+      "radiatorReplacement (cleaning)": {
         "id": 22,
         "service": "Замена радиатора (промывка)",
         "price": "от 120 злотых"
       },
-      {
+      "heaterCoreReplacement": {
         "id": 23,
         "service": "Замена печки",
         "price": "от 180 злотых"
       },
-      {
+      "timingBeltReplacement": {
         "id": 24,
         "service": "Замена ремня ГРМ",
         "price": "от 450 злотых"
       },
-      {
+      "chainTimingReplacement": {
         "id": 25,
         "service": "Замена цепи ГРМ",
         "price": "от 700 злотых"
       },
-      {
+      "engineReplacement": {
         "id": 26,
         "service": "Замена двигателя",
         "price": "от 1100 злотых"
       },
-      {
+      "valveCoverGasketReplacement": {
         "id": 27,
         "service": "Замена прокладки клапанной крышки",
         "price": "от 160 злотых"
       },
-      {
+      "manifoldGasketReplacement": {
         "id": 28,
         "service": "Замена прокладки впускного коллектора",
         "price": "от 180 злотых"
       },
-      {
+      "headGasketReplacement": {
         "id": 29,
         "service": "Замена прокладки под головкой блока",
         "price": "от 950 злотых"
       },
-      {
+      "multi-VBeltReplacement": {
         "id": 30,
         "service": "Замена поликлинового ремня",
         "price": "от 90 злотых"
       },
-      {
+      "beltWithRollersReplacement": {
         "id": 31,
         "service": "Замена ремня с роликами",
         "price": "от 150 злотых"
       },
-      {
+      "camshaftPositionSensorReplacement": {
         "id": 32,
         "service": "Замена датчика распредвала",
         "price": "от 60 злотых"
       },
-      {
+      "frontCrankshaftSensorReplacement": {
         "id": 33,
         "service": "Замена датчика коленчатого вала передний",
         "price": "от 80 злотых"
       },
-      {
+      "brakeFluidReplacement": {
         "id": 34,
         "service": "Замена тормозной жидкости",
         "price": "от 180 злотых"
       },
-      {
+      "padReplacement": {
         "id": 35,
         "service": "Замена тормозных колодок",
         "price": "от 70 злотых"
       },
-      {
+      "discWithPadsReplacementFront/rear": {
         "id": 36,
         "service": "Замена дисков с колодками передние/задние",
         "price": "от 130 злотых"
       },
-      {
+      "brakeHoseReplacement": {
         "id": 37,
         "service": "Замена тормозного шланга",
         "price": "от 50 злотых"
       },
-      {
+      "brakeCaliperReplacement": {
         "id": 38,
         "service": "Замена тормозного суппорта",
         "price": "от 90 злотых"
       }
-    ],
-    "electricalRepair": [
-      {
+    },
+    "electricalRepair": {
+      "computerDiagnostics": {
         "id": 39,
         "service": "Компьютерная диагностика",
         "price": "от 50 злотых"
       },
-      {
+      "batteryReplacement": {
         "id": 40,
         "service": "Замена аккумулятора",
         "price": "от 40 злотых"
       },
-      {
+      "bulbReplacement": {
         "id": 41,
         "service": "Замена лампы",
         "price": "от 20 злотых"
       },
-      {
+      "starterReplacement/regeneration": {
         "id": 42,
         "service": "Замена/восстановление стартера",
         "price": "от 70 злотых"
       },
-      {
+      "alternatorReplacement/regeneration": {
         "id": 43,
         "service": "Замена/восстановление генератора",
         "price": "от 110 злотых"
       },
-      {
+      "fuseReplacement": {
         "id": 44,
         "service": "Замена предохранителя",
         "price": "от 20 злотых"
       },
-      {
+      "turnSignalAndWiperSwitchRepair": {
         "id": 45,
         "service": "Ремонт переключателя указателей поворота и стеклоочистителя",
         "price": "от 80 злотых"
       },
-      {
+      "dashboardDisassembly/assembly": {
         "id": 46,
         "service": "Демонтаж/монтаж приборной панели",
         "price": "от 400 злотых"
       },
-      {
+      "sparkPlugReplacement": {
         "id": 47,
         "service": "Замена проводов зажигания",
         "price": "от 80 злотых"
       },
-      {
+      "aBS /ESPRepair": {
         "id": 48,
         "service": "Ремонт ABS / ESP",
         "price": "от 80 злотых"
       },
-      {
+      "sparkPlugReplacementPerPiece": {
         "id": 49,
         "service": "Замена свечей зажигания за штуку",
         "price": "от 20 злотых"
       },
-      {
+      "glowPlugReplacementPerPiece": {
         "id": 50,
         "service": "Замена накаливания за штуку",
         "price": "от 35 злотых"
       },
-      {
+      "lockRepair": {
         "id": 51,
         "service": "Ремонт замка",
         "price": "от 100 злотых"
       },
-      {
+      "sideWindowReplacement": {
         "id": 52,
         "service": "Замена бокового стекла",
         "price": "от 100 злотых"
       }
-    ],
-    "tireService": [
-      {
+    },
+    "tireService": {
+      "wheelReplacement": {
         "id": 53,
         "service": "Замена колес",
         "price": "от 60 злотых"
       },
-      {
+      "tireReplacementWithBalancing": {
         "id": 54,
         "service": "Замена шин с балансировкой",
         "price": "от 130 злотых"
       },
-      {
+      "wheelBalancing": {
         "id": 55,
         "service": "Балансировка колес",
         "price": "от 20 злотых"
       }
-    ]
-
+    }
+  }
 }

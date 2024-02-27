@@ -116,285 +116,286 @@
     }
   },
   "priceList": {
-    "category1": 
-      {
+    "category1": {
+      "fuelFilterReplacement": {
         "id": 1,
         "service": "Fuel filter replacement",
         "price": "from 50 PLN"
       },
-      {
+      "airFilterReplacement": {
         "id": 2,
         "service": "Air filter replacement",
         "price": "10-30 PLN"
       },
-      {
+      "cabinFilterReplacement": {
         "id": 3,
         "service": "Cabin filter replacement",
         "price": "10-30 PLN"
       },
-      {
+      "oilChange": {
         "id": 4,
         "service": "Oil change",
         "price": "From 70 PLN"
       },
-      {
+      "manualTransmissionOilChange": {
         "id": 5,
         "service": "Manual transmission oil change",
         "price": "from 70 PLN"
       },
-      {
+      "automaticTransmissionOilChange": {
         "id": 6,
         "service": "Automatic transmission oil change",
         "price": "from 80 PLN"
       },
-      {
+      "clutchReplacement": {
         "id": 7,
         "service": "Clutch replacement",
         "price": "from 450 PLN"
       },
-      {
+      "gearboxReplacement": {
         "id": 8,
         "service": "Gearbox replacement",
         "price": "from 550 PLN"
       },
-      {
+      "shockAbsorberReplacement": {
         "id": 9,
         "service": "Shock absorber replacement",
         "price": "from 140 PLN"
       },
-      {
+      "wishboneReplacement": {
         "id": 10,
         "service": "Wishbone replacement",
         "price": "from 100 PLN"
       },
-      {
+      "wishboneBushingReplacement": {
         "id": 11,
         "service": "Wishbone bushing replacement",
         "price": "from 120 PLN"
       },
-      {
+      "stabilizerLinkReplacement": {
         "id": 12,
         "service": "Stabilizer link replacement",
         "price": "from 70 PLN"
       },
-      {
+      "frontAndRearStabilizerRubberReplacement": {
         "id": 13,
         "service": "Front and rear stabilizer rubber replacement",
         "price": "from 50 PLN"
       },
-      {
+      "rearBeamRubberReplacement": {
         "id": 14,
         "service": "Rear beam rubber replacement",
         "price": "from 300 PLN"
       },
-      {
+      "wheelHubReplacement": {
         "id": 15,
         "service": "Wheel hub replacement",
         "price": "from 120 PLN"
       },
-      {
+      "inner/outerCVJointBootReplacement": {
         "id": 16,
         "service": "Inner/outer CV joint boot replacement",
         "price": "from 120 PLN"
       },
-      {
+      "suspensionDiagnostics": {
         "id": 17,
         "service": "Suspension diagnostics",
         "price": "from 30 PLN"
       },
-      {
+      "powerSteeringFluidReplacement": {
         "id": 18,
         "service": "Power steering fluid replacement",
         "price": "from 80 PLN"
       },
-      {
+      "steeringTieRodEndReplacement": {
         "id": 19,
         "service": "Steering tie rod end replacement",
         "price": "from 60 PLN"
       },
-      {
+      "steeringRodReplacement": {
         "id": 20,
         "service": "Steering rod replacement",
         "price": "from 80 PLN"
       },
-      {
+      "coolantReplacement": {
         "id": 21,
         "service": "Coolant replacement",
         "price": "from 80 PLN"
       },
-      {
+      "radiatorReplacement (cleaning)": {
         "id": 22,
         "service": "Radiator replacement (cleaning)",
         "price": "from 120 PLN"
       },
-      {
+      "heaterCoreReplacement": {
         "id": 23,
         "service": "Heater core replacement",
         "price": "from 180 PLN"
       },
-      {
+      "timingBeltReplacement": {
         "id": 24,
         "service": "Timing belt replacement",
         "price": "from 450 PLN"
       },
-      {
+      "chainTimingReplacement": {
         "id": 25,
         "service": "Chain timing replacement",
         "price": "from 700 PLN"
       },
-      {
+      "engineReplacement": {
         "id": 26,
         "service": "Engine replacement",
         "price": "from 1100 PLN"
       },
-      {
+      "valveCoverGasketReplacement": {
         "id": 27,
         "service": "Valve cover gasket replacement",
         "price": "from 160 PLN"
       },
-      {
+      "manifoldGasketReplacement": {
         "id": 28,
         "service": "Manifold gasket replacement",
         "price": "from 180 PLN"
       },
-      {
+      "headGasketReplacement": {
         "id": 29,
         "service": "Head gasket replacement",
         "price": "from 950 PLN"
       },
-      {
+      "multi-VBeltReplacement": {
         "id": 30,
         "service": "Multi-V belt replacement",
         "price": "from 90 PLN"
       },
-      {
+      "beltWithRollersReplacement": {
         "id": 31,
         "service": "Belt with rollers replacement",
         "price": "from 150 PLN"
       },
-      {
+      "camshaftPositionSensorReplacement": {
         "id": 32,
         "service": "Camshaft position sensor replacement",
         "price": "from 60 PLN"
       },
-      {
+      "frontCrankshaftSensorReplacement": {
         "id": 33,
         "service": "Front crankshaft sensor replacement",
         "price": "from 80 PLN"
       },
-      {
+      "brakeFluidReplacement": {
         "id": 34,
         "service": "Brake fluid replacement",
         "price": "from 180 PLN"
       },
-      {
+      "padReplacement": {
         "id": 35,
         "service": "Pad replacement",
         "price": "from 70 PLN"
       },
-      {
+      "discWithPadsReplacementFront/rear": {
         "id": 36,
         "service": "Disc with pads replacement front/rear",
         "price": "from 130 PLN"
       },
-      {
+      "brakeHoseReplacement": {
         "id": 37,
         "service": "Brake hose replacement",
         "price": "from 50 PLN"
       },
-      {
+      "brakeCaliperReplacement": {
         "id": 38,
         "service": "Brake caliper replacement",
         "price": "from 90 PLN"
       }
-    ,
-    "electricalRepair": 
-      {
+    },
+    "electricalRepair": {
+      "computerDiagnostics": {
         "id": 39,
         "service": "Computer diagnostics",
         "price": "from 50 PLN"
       },
-      {
+      "batteryReplacement": {
         "id": 40,
         "service": "Battery replacement",
         "price": "from 40 PLN"
       },
-      {
+      "bulbReplacement": {
         "id": 41,
         "service": "Bulb replacement",
         "price": "from 20 PLN"
       },
-      {
+      "starterReplacement/regeneration": {
         "id": 42,
         "service": "Starter replacement/regeneration",
         "price": "from 70 PLN"
       },
-      {
+      "alternatorReplacement/regeneration": {
         "id": 43,
         "service": "Alternator replacement/regeneration",
         "price": "from 110 PLN"
       },
-      {
+      "fuseReplacement": {
         "id": 44,
         "service": "Fuse replacement",
         "price": "from 20 PLN"
       },
-      {
+      "turnSignalAndWiperSwitchRepair": {
         "id": 45,
         "service": "Turn signal and wiper switch repair",
         "price": "from 80 PLN"
       },
-      {
+      "dashboardDisassembly/assembly": {
         "id": 46,
         "service": "Dashboard disassembly/assembly",
         "price": "from 400 PLN"
       },
-      {
+      "sparkPlugReplacement": {
         "id": 47,
         "service": "Spark plug replacement",
         "price": "from 80 PLN"
       },
-      {
+      "aBS /ESPRepair": {
         "id": 48,
         "service": "ABS / ESP repair",
         "price": "from 80 PLN"
       },
-      {
+      "sparkPlugReplacementPerPiece": {
         "id": 49,
         "service": "Spark plug replacement per piece",
         "price": "from 20 PLN"
       },
-      {
+      "glowPlugReplacementPerPiece": {
         "id": 50,
         "service": "Glow plug replacement per piece",
         "price": "from 35 PLN"
       },
-      {
+      "lockRepair": {
         "id": 51,
         "service": "Lock repair",
         "price": "from 100 PLN"
       },
-      {
+      "sideWindowReplacement": {
         "id": 52,
         "service": "Side window replacement",
         "price": "from 100 PLN"
       }
-    ,
-    "tireService": 
-      {
+    },
+    "tireService": {
+      "wheelReplacement": {
         "id": 53,
         "service": "Wheel replacement",
         "price": "from 60 PLN"
       },
-      {
+      "tireReplacementWithBalancing": {
         "id": 54,
         "service": "Tire replacement with balancing",
         "price": "from 130 PLN"
       },
-      {
+      "wheelBalancing": {
         "id": 55,
         "service": "Wheel balancing",
         "price": "from 20 PLN"
       }
+    }
   }
 }

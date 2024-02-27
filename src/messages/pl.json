@@ -116,286 +116,286 @@
     }
   },
   "priceList": {
-    "category1": [
-      {
+    "category1": {
+      "fuelFilterReplacement": {
         "id": 1,
         "service": "Wymiana filtra paliwa",
         "price": "od 50 Zł"
       },
-      {
+      "airFilterReplacement": {
         "id": 2,
         "service": "Wymiana filtra powietrza",
         "price": "10-30 Zł"
       },
-      {
+      "cabinFilterReplacement": {
         "id": 3,
         "service": "Wymiana filtra kabinowego",
         "price": "10-30 Zł"
       },
-      { 
+      "oilChange": {
         "id": 4,
         "service": "Wymiana oleju",
         "price": "Od 70 Zł"
       },
-      {
+      "manualTransmissionOilChange": {
         "id": 5,
         "service": "Wymiana oleju w skrzyni manualnej",
         "price": "od 70 Zł"
       },
-      {
+      "automaticTransmissionOilChange": {
         "id": 6,
         "service": "Wymiana oleju w skrzyni automatycznej",
         "price": "od 80 Zł"
       },
-      {
+      "clutchReplacement": {
         "id": 7,
         "service": "Wymiana sprzęgła",
         "price": "od 450 Zł"
       },
-      {
+      "gearboxReplacement": {
         "id": 8,
         "service": "Wymiana skrzyni",
         "price": "od 550 Zł"
       },
-      {
+      "shockAbsorberReplacement": {
         "id": 9,
         "service": "Wymiana amortyzatora",
         "price": "od 140 Zł"
       },
-      {
+      "wishboneReplacement": {
         "id": 10,
         "service": "Wymiana wahacza",
         "price": "od 100 Zł"
       },
-      {
+      "wishboneBushingReplacement": {
         "id": 11,
         "service": "Wymiana tulei wahacza",
         "price": "od 120 Zł"
       },
-      {
+      "stabilizerLinkReplacement": {
         "id": 12,
         "service": "Wymiana łącznika stabilizatora",
         "price": "od 70 Zł"
       },
-      {
+      "frontAndRearStabilizerRubberReplacement": {
         "id": 13,
         "service": "Wymiana gumy stabilizatora przód,tył",
         "price": "od 50 Zł"
       },
-      {
+      "rearBeamRubberReplacement": {
         "id": 14,
         "service": "Wymiana gum belki tył",
         "price": "od 300 Zł"
       },
-      {
+      "wheelHubReplacement": {
         "id": 15,
         "service": "Wymiana piasty koła",
         "price": "od 120 Zł"
       },
-      {
+      "inner/outerCVJointBootReplacement": {
         "id": 16,
         "service": "Wymiana osłony przegubu wewnątrz/zewnątrz",
         "price": "od 120 Zł"
       },
-      {
+      "suspensionDiagnostics": {
         "id": 17,
         "service": "Diagnostyka zawieszenia",
         "price": "od 30 Zł"
       },
-      {
+      "powerSteeringFluidReplacement": {
         "id": 18,
         "service": "Wymiana płynu układu wspomagania",
         "price": "od 80 Zł"
       },
-      {
+      "steeringTieRodEndReplacement": {
         "id": 19,
         "service": "Wymiana końcówki drążka kierowniczego",
         "price": "od 60 Zł"
       },
-      {
+      "steeringRodReplacement": {
         "id": 20,
         "service": "Wymiana drążka",
         "price": "od 80 Zł"
       },
-      {
+      "coolantReplacement": {
         "id": 21,
         "service": "Wymiana płynu chłodniczego",
         "price": "od 80 Zł"
       },
-      {
+      "radiatorReplacement (cleaning)": {
         "id": 22,
         "service": "Wymiana chłodnicy(mycie)",
         "price": "od 120 Zł"
       },
-      {
+      "heaterCoreReplacement": {
         "id": 23,
         "service": "Wymiana nagrzewnicy",
         "price": "od 180 Zł"
       },
-      {
+      "timingBeltReplacement": {
         "id": 24,
         "service": "Wymiana rozrządu (pasek)",
         "price": "od 450 Zł"
       },
-      {
+      "chainTimingReplacement": {
         "id": 25,
         "service": "Wymiana rozrządu łańcuch",
         "price": "od 700 Zł"
       },
-      {
+      "engineReplacement": {
         "id": 26,
         "service": "Wymiana silnika",
         "price": "od 1100 Zł"
       },
-      {
+      "valveCoverGasketReplacement": {
         "id": 27,
         "service": "Wymiana uszczelki pokrywy zaworów",
         "price": "od 160 Zł"
       },
-      {
+      "manifoldGasketReplacement": {
         "id": 28,
         "service": "Wymiana uszczelki kolektora",
         "price": "od 180 Zł"
       },
-      {
+      "headGasketReplacement": {
         "id": 29,
         "service": "Wymiana uszczelki pod głowicą",
         "price": "od 950 Zł"
       },
-      {
+      "multi-VBeltReplacement": {
         "id": 30,
         "service": "Wymiana paska wielorowkowego",
         "price": "od 90 Zł"
       },
-      {
+      "beltWithRollersReplacement": {
         "id": 31,
         "service": "Wymiana paska z rolkami",
         "price": "od 150 Zł"
       },
-      {
+      "camshaftPositionSensorReplacement": {
         "id": 32,
         "service": "Wymiana czujnika wałka rozrządu",
         "price": "od 60 Zł"
       },
-      {
+      "frontCrankshaftSensorReplacement": {
         "id": 33,
         "service": "Wymiana czujnika wału przód",
         "price": "od 80 Zł"
       },
-      {
+      "brakeFluidReplacement": {
         "id": 34,
         "service": "Wymiana płynu hamulcowego",
         "price": "od 180 Zł"
       },
-      {
+      "padReplacement": {
         "id": 35,
         "service": "Wymiana klocków",
         "price": "od 70 Zł"
       },
-      {
+      "discWithPadsReplacementFront/rear": {
         "id": 36,
         "service": "Wymiana tarcz z klockami przód/tył",
         "price": "od 130 Zł"
       },
-      {
+      "brakeHoseReplacement": {
         "id": 37,
         "service": "Wymiana przewodu hamulcowego",
         "price": "od 50 Zł"
       },
-      {
+      "brakeCaliperReplacement": {
         "id": 38,
         "service": "Wymiana zacisku hamulcowego",
         "price": "od 90 Zł"
       }
-    ],
-    "electricalRepair": [
-      {
+    },
+    "electricalRepair": {
+      "computerDiagnostics": {
         "id": 39,
         "service": "Diagnostyka komputerowa",
         "price": "od 50 zł ZŁ"
       },
-      {
+      "batteryReplacement": {
         "id": 40,
         "service": "Wymiana akumulatora",
         "price": "od 40 zł ZŁ"
       },
-      {
+      "bulbReplacement": {
         "id": 41,
         "service": "Wymiana żarówki",
         "price": "od 20 zł ZŁ"
       },
-      {
+      "starterReplacement/regeneration": {
         "id": 42,
         "service": "Wymiana / regeneracja rozrusznika",
         "price": "od 70 zł ZŁ"
       },
-      {
+      "alternatorReplacement/regeneration": {
         "id": 43,
         "service": "Wymiana / regeneracja alternatora",
         "price": "od 110 zł ZŁ"
       },
-      {
+      "fuseReplacement": {
         "id": 44,
         "service": "Wymiana bezpiecznika",
         "price": "od 20 zł ZŁ"
       },
-      {
+      "turnSignalAndWiperSwitchRepair": {
         "id": 45,
         "service": "Naprawa przełącznika kierunkowskazów i wycieraczek",
         "price": "od 80 zł ZŁ"
       },
-      {
+      "dashboardDisassembly/assembly": {
         "id": 46,
         "service": "Demontaż/montaż deski rozdzielczej",
         "price": "od 400 zł ZŁ"
       },
-      {
+      "sparkPlugReplacement": {
         "id": 47,
         "service": "Wymiana przewodów zapłonowych",
         "price": "od 80 zł ZŁ"
       },
-      {
+      "aBS /ESPRepair": {
         "id": 48,
         "service": "Naprawa ABS / ESP",
         "price": "od 80 zł ZŁ"
       },
-      {
+      "sparkPlugReplacementPerPiece": {
         "id": 49,
         "service": "Wymiana świec zapłonowych za sztukę",
         "price": "od 20 zł ZŁ"
       },
-      {
+      "glowPlugReplacementPerPiece": {
         "id": 50,
         "service": "Wymiana świec żarowych za sztukę",
         "price": "od 35 zł ZŁ"
       },
-      {
+      "lockRepair": {
         "id": 51,
         "service": "Naprawa zamka",
         "price": "od 100 zł ZŁ"
       },
-      {
+      "sideWindowReplacement": {
         "id": 52,
         "service": "Wymiana szyby bocznej",
         "price": "od 100 zł ZŁ"
       }
-    ],
-    "tireService": [
-      {
+    },
+    "tireService": {
+      "wheelReplacement": {
         "id": 53,
         "service": "Wymiana kół",
         "price": "od 60 zł ZŁ"
       },
-      {
+      "tireReplacementWithBalancing": {
         "id": 54,
         "service": "Wymiana opon z wyważeniem",
         "price": "od 130 zł ZŁ"
       },
-      {
+      "wheelBalancing": {
         "id": 55,
         "service": "Wyważanie kół",
         "price": "od 20 zł ZŁ"
       }
-    ]
+    }
   }
 }
